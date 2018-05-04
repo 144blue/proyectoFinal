@@ -13,7 +13,7 @@ public class VentanaPrincipal extends JFrame{
 		
 		juego=new Juego();
 		
-		this.setSize(800, 800);
+		this.setSize(80, 800);
 		this.setVisible(true);
 		
 	}
